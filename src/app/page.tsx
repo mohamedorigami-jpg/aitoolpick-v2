@@ -69,9 +69,8 @@ export default function HomePage() {
 
         <ScrollReveal>
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-foreground leading-tight max-w-4xl mx-auto">
-            Find the Right AI Tool
-            <br />
-            <span className="text-accent">&mdash; Fast</span>
+            Find the Right AI Tool,{" "}
+            <span className="text-accent">Fast</span>
           </h1>
         </ScrollReveal>
 
