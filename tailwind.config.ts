@@ -9,15 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "#0d1117",
-        card: "#161b22",
+        background: "#ffffff",
+        card: "#f8fafc",
         accent: "#7c3aed",
         "accent-hover": "#6d28d9",
-        foreground: "#f0f6fc",
-        muted: "#8b949e",
-        "border-color": "#30363d",
-        success: "#3fb950",
-        danger: "#f85149",
+        foreground: "#0f172a",
+        muted: "#64748b",
+        "border-color": "#e2e8f0",
+        success: "#16a34a",
+        danger: "#dc2626",
       },
       fontFamily: {
         sans: ["Inter", "system-ui", "sans-serif"],

@@ -18,7 +18,7 @@
   }
 
   ::selection {
-    @apply bg-accent/30 text-foreground;
+    @apply bg-accent/20 text-foreground;
   }
 
   /* Custom scrollbar */
